@@ -38,4 +38,4 @@ La fonctionnalité principale du Jeu de la Vie est implémentée dans le fichier
 Le fichier `main.py` est le point d'entrée de l'application, qui appelle simplement la fonction `creer_fenetre()` pour démarrer le jeu.
 
 ## Tests
-![Screen](vidéo/tes.mp4)
+[![Watch the video]](vidéo/test.mp4)
