@@ -36,6 +36,3 @@ La fonctionnalité principale du Jeu de la Vie est implémentée dans le fichier
 - `boucle_jeu()`: Exécute la boucle du jeu, met à jour la grille et redessine le canevas.
 
 Le fichier `main.py` est le point d'entrée de l'application, qui appelle simplement la fonction `creer_fenetre()` pour démarrer le jeu.
-
-## Tests
-[![Watch the video]](vidéo/test.mp4)
